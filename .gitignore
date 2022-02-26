@@ -1,0 +1,9 @@
+**/.vs
+**/obj
+**/bin
+**/Prep
+**/*.user
+**/Logs
+**/Images
+/DevTrack/DevTrack.Worker/WebcamImages
+**/DevTrackDB
